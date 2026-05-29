@@ -1,6 +1,6 @@
 # <div align="center">🚀 Smriti's Command Center</div>
 <p align="center">
-  <a href="./assets/P SMRITI Resume.pdf">
+  <a href="./P SMRITI Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
