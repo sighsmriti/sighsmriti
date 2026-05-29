@@ -1,7 +1,7 @@
 # <div align="center">🚀 Smriti's Command Center</div>
 <p align="center">
-  <a href="./P SMRITI resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  <a href="./P%20Smriti%20resume.pdf">
+    <img src="https://img.shields.io/badge/📄_Resume-View-red?style=for-the-badge" />
   </a>
 </p>
 
